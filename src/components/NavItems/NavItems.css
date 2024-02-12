@@ -1,0 +1,9 @@
+.nav__links-type {
+  list-style: none;
+  margin-left: 50px;
+  font-size: 23px;
+  line-height: 16px;
+  font-weight: 500;
+  text-decoration: underline;
+  color: blueviolet;
+}

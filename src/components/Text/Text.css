@@ -1,0 +1,24 @@
+.text {
+  padding: 18px 70px;
+}
+
+.text__title {
+  max-width: 226px;
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 26px;
+  margin: 0;
+}
+
+.text__description {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 10px;
+  padding: 14px 12px 10px;
+}
+
+.btn-warning {
+  width: 200px;
+  color: brown;
+}

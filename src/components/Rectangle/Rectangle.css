@@ -1,0 +1,23 @@
+.rectangle {
+  padding: 18px 70px;
+}
+
+.rectangle_box {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+}
+
+.rectangle_box-blue {
+    background: blue;
+  } 
+
+
+.rectangle_box-green {
+  background: green;
+}
+
+.rectangle_box-red {
+    background: red;
+  }

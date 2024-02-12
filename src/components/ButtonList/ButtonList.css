@@ -1,0 +1,27 @@
+.button-list {
+  padding: 18px 70px;
+}
+
+.btn-secondary_list {
+  width: 280px;
+  background-image: url(../../images/png-transparent-computer-icons-arrow-symbol-sprite-arrow-angle-text-rectangle.png);
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: right 2px center;
+}
+
+.button-list__items {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background-color: whitesmoke;
+  width: 200px;
+}
+.button-list__item {
+  padding: 8px 12px;
+}
+
+.button-list__item:hover {
+  background-color: rgba(0, 0, 0, 0.14);
+  cursor: pointer;
+}

@@ -1,0 +1,15 @@
+.outer-container {
+  border: 1px solid;
+  height: 25px;
+  border-radius: 7px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+
+.inner-container {
+    height: 100%;
+    background-color: blue;
+    width: var(--width);
+    text-align: center;
+    color:#fff;
+}

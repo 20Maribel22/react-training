@@ -1,0 +1,9 @@
+.content {
+display: flex;
+flex-direction: column;
+padding: 18px 70px;
+}
+
+.btn {
+ width: 120px;
+}

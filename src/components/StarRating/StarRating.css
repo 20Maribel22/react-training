@@ -1,0 +1,25 @@
+.star {
+    
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+input[type='radio'] {
+    display: none;
+}
+
+.star__item {
+    cursor: pointer;
+    transition: color 200ms;
+}
+.star__container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
