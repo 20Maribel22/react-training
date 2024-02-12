@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "./static/css/main.42ba6884.css",
+    "main.js": "./static/js/main.1db0b2f2.js",
+    "static/media/animal2.jpg": "./static/media/animal2.74a4a200b3208b8a1784.jpg",
+    "static/media/animal5.jpg": "./static/media/animal5.c297307aa2a55f3a516a.jpg",
+    "static/media/animal6.jpg": "./static/media/animal6.e02fdd9da33b77e9713f.jpg",
+    "static/media/animal3.jpg": "./static/media/animal3.0f5a4dbadfcc7dca902d.jpg",
+    "static/media/animal1.jpeg": "./static/media/animal1.245030600fd4a608260e.jpeg",
+    "static/media/animal4.jpg": "./static/media/animal4.cc5080fdf71f155032fe.jpg",
+    "static/media/panda_logo.png": "./static/media/panda_logo.2a963d01087ee99b1a8b.png",
+    "index.html": "./index.html",
+    "main.42ba6884.css.map": "./static/css/main.42ba6884.css.map",
+    "main.1db0b2f2.js.map": "./static/js/main.1db0b2f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42ba6884.css",
+    "static/js/main.1db0b2f2.js"
+  ]
+}
